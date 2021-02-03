@@ -1,6 +1,6 @@
 #!/bin/bash
 #################################################
-# latex-bereinigen.sh:                          #
+# cleanup-latex.sh:                             #
 # Dieses Skript bereinigt einen Ordner,         #
 # in welchem eine LaTeX-Datei übersetzt wurde,  #
 # von nicht mehr benötigten LaTeX-Hilfsdateien. #
