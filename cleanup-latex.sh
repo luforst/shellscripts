@@ -35,7 +35,7 @@ then
 	for datei in $dateien
 	do
 		rm "$datei"
-		removed=$removed+1
+		removed=$((removed+1))
 	done
 	echo "$removed Dateien gelöscht"
 	exit 0
